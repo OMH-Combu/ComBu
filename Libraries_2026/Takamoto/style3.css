@@ -1,0 +1,28 @@
+.sounyuu1{
+    width:600px;
+    height:300px;
+}
+.joukenn1{
+    background-color: chartreuse;
+}
+.joukenn2{
+    background-color: aqua;
+}
+.botton{
+    padding: 10px 20px;
+    background-color: pink;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.botton:hover{
+    background-color:rgb(253, 105, 105)
+}
+.table1{
+      border-collapse: collapse;
+}
+.tabele2 th,td{
+    width: 80%;
+    table-layout: fixed;
+}
