@@ -1,0 +1,22 @@
+.gurafu1{
+    width: 900px;
+    height: auto;
+}
+.gurafu2{
+    width: 900px;
+    height: auto;
+}
+.botton{
+    padding: 10px 20px;
+    background-color: pink;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.botton:hover{
+    background-color:rgb(253, 105, 105)
+}
+.p{
+    height:auto;
+}
