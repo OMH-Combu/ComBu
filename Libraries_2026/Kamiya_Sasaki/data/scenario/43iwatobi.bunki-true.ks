@@ -15,15 +15,14 @@
 
 避けることに成功！！[l][cm]
 
-（「ボスッ」）[l][cm]
+（ボスッ）[l][cm]
 イワトビはどこからか現れたダンボールに突っ込んだ。[l][cm]
 
 ;イワトビsmile
 [chara_show name="iwatobi" face="smile" top=10] 
 
 #iwatobi
-「お、やるな。[l][r]
-でもこれはどうかな」[l][cm]
+「お、やるな。[l]でもこれはどうかな」[l][cm]
 
 @jump storage=42iwatobi.bunki-main.ks target=*common2
 
@@ -58,8 +57,7 @@
 [chara_mod name="iwatobi" face="default" width=600 top=10]
 
 #iwatobi
-「くそっ、[l][r]
-お前、どこからそのマグロ出してきたんだ」[l][cm]
+「くそっ、[l]お前、どこからそのマグロ出してきたんだ」[l][cm]
 
 @jump storage=42iwatobi.bunki-main.ks target=*common3
 
@@ -100,7 +98,7 @@
 クチバシが壁に刺さった。[l][cm]
 
 #iwatobi
-「□&○%$■☆♭＊！：」[l][cm]
+「□&○%$■☆♭#♪!?」[l][cm]
 #
 
 @jump storage=41iwatobi.main.ks target=*common2
