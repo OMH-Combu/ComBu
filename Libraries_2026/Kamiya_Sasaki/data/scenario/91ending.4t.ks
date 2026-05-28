@@ -17,9 +17,11 @@
 [chara_hide name="kanban"]
 
 背後にはいつからでていたのか[r]
-今まで通ってきたのと同じ白いドアがあった。[l][cm]
+
 ;ドア出現
-[chara_show name="door"]
+[chara_show name="door" wait=false]
+
+今まで通ってきたのと同じ白いドアがあった。[l][cm]
 
 私は新たな想いを胸に一歩踏み出した。[l][cm]
 
