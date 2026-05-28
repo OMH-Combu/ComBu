@@ -24,9 +24,10 @@
 そこまで出ると看板は動かなくなった。[l][r]
 ;看板消
 [chara_hide name="kanban"]
+
 背後にはいつから出ていたのか[r]
 ;ドア出現
-[chara_show name="door"]
+[chara_show name="door" wait=false]
 今まで通ってきたのと同じ白いドアがあった。[l][cm]
 
 私は……[l][cm]
