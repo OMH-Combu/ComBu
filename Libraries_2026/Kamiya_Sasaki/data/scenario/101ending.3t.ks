@@ -19,10 +19,11 @@
 [chara_hide name="kanban"]
 
 背後にはいつから出ていたのか[r]
-今まで通ってきたのと同じ白いドアがあった。[l][cm]
 
 ;ドア
-[chara_show name="door"]
+[chara_show name="door" wait=false]
+
+今まで通ってきたのと同じ白いドアがあった。[l][cm]
 
 私はドアに吸い込まれるように進んでいった。[l][cm]
 
