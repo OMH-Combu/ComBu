@@ -20,7 +20,7 @@ Congratulations![l][r]
 ;看板消
 [chara_hide name="kanban"]
 ;ドア出現
-[chara_show name="door"]
+[chara_show name="door" wait=false]
 今まで通ってきたものと同じ白いドアがあった。[l][cm]
 
 ドアを開けようと、ドアノブに手をかけたとき
