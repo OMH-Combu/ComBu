@@ -15,8 +15,8 @@
 「あぁ、アイリングってのは、目のまわりの白い部分のことだぜ」[l][cm]
 #
 ;分岐２
-[link storage=34adeliae.bunki-false.ks target=*select2]【１】「かわいいね！」[endlink][r]
-[link storage=33adeliae.bunki-true.ks target=*select2]【２】「カッコイイね！」[endlink][r]
+[link storage=34adeliae.bunki-false.ks target=*select2]【１】「へえ、かわいい！」[endlink][r]
+[link storage=33adeliae.bunki-true.ks target=*select2]【２】「おー、カッコイイ！」[endlink][r]
 [s][cm]
 
 
@@ -26,6 +26,6 @@
 「お前は自分の気に入ってるとこねーのか？」[l][cm]
 #
 ;分岐3
-[link storage=33adeliae.bunki-true.ks target=*select3]【１】「きゅるきゅるのおめめ！！」[endlink][r]
-[link storage=34adeliae.bunki-false.ks target=*select3]【２】「小柄でかわいいところかな？[r]　　　　あ、君のほうが小さくてかわいいけどね♡」[endlink][r]
+[link storage=33adeliae.bunki-true.ks target=*select3]【１】「私も自分の目は気に入ってるかな」[endlink][r]
+[link storage=34adeliae.bunki-false.ks target=*select3]【２】「身長が高いところかな？[r]　　　　あ、君は小さくてかわいいと思うよ」[endlink][r]
 [s][cm]
