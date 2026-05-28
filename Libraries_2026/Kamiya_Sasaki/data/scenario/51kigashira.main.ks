@@ -21,7 +21,6 @@
 [image layer="1" x="950" y="5" storage="koukando.zero.png"]
 [layopt layer="1" visible=true time="1000"]
 
-[if 
 気が付くと遠くでペンギンが本を読んでいるのが見える。[l][cm]
 
 ;キガシラread
