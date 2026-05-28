@@ -80,6 +80,8 @@
 [if exp="count>=2"]
  ;全体カウント
  [eval exp="allcount=allcount+1"] 
+ ;キガシラオープニングカウント
+ [eval exp="kigashira-count=1"] 
  ;効果音T
  [playse storage="好感度最終true otologic.mp3"] 
 
