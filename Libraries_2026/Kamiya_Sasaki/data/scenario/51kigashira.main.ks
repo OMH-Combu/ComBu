@@ -21,7 +21,12 @@
 [image layer="1" x="950" y="5" storage="koukando.zero.png"]
 [layopt layer="1" visible=true time="1000"]
 
-気が付くと遠くでペンギンが本を読んでいるのが見える。[l][cm]
+;イワトビ最終true
+[if exp="kigashira-count=1"]
+ 遠くでペンギンが本を読んでいるのを見える。[l][cm]
+;イワトビ最終false
+[else]
+ 気が付くと遠くでペンギンが本を読んでいるのが見える。[l][cm]
 
 ;キガシラread
 [chara_show name="kigashira" face="read" top=20]
