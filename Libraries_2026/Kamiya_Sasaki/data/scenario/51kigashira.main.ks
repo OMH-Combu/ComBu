@@ -27,6 +27,7 @@
 ;イワトビ最終false
 [else]
  気が付くと遠くでペンギンが本を読んでいるのが見える。[l][cm]
+[endif]
 
 ;キガシラread
 [chara_show name="kigashira" face="read" top=20]
