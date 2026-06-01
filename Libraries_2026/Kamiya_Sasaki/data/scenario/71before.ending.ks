@@ -109,8 +109,7 @@
 ;メッセージレイヤ大
 [position height=400 top=150 left=180]
 【結果】[l][r]
-仲良くなったペンギンの数[l][r]
-_　　　　　　　　　　[emb exp="allcount"]羽[l][cm]
+仲良くなったペンギンの数[l]_   [emb exp="allcount"]羽[l][cm]
 
 
 [if exp="allcount==6"]
