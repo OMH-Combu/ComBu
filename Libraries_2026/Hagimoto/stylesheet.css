@@ -5,7 +5,7 @@ body {
 a {
   text-decoration: none;
 }
-.container{
+.container {
   width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
@@ -14,12 +14,12 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url("./picture1.png");
-  background-size: cover;
   color: white;
   text-align: center;
+  background-size: cover;
 }
 
-.top-wrapper h1 {
+.top-wrapper .container h1 {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
