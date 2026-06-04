@@ -81,8 +81,8 @@
 [mask_off]
 
 [if exp="count>=2"]
- ;効果音
- [playse storage="好感度最終true otologic.mp3"] 
+ ;効果音T
+ [playse storage="otologic koukando-last-true.mp3"] 
  ;全体カウント
  [eval exp="allcount=allcount+1"]
  ;キガシラsmile
@@ -92,8 +92,8 @@
  どうやら君は嘘をついていないようだ。[l][r]
  仲よくしよう」[l][cm]
 [else]
- ;効果音
- [playse storage="好感度最終false otologic.mp3"]
+ ;効果音F
+ [playse storage="otologic koukando-last-false.mp3"]
  ;キガシラangry
  [chara_mod name="kigashira" face="angry"]
  #キガシラ
