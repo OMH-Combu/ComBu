@@ -39,11 +39,3 @@
 
 
 @jump storage=first.ks target=*start
-
-
-
-
-
-
-
-
