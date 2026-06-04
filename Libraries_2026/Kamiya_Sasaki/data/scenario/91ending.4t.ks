@@ -40,7 +40,7 @@
 ;水族館背景
 [bg storage="aquarium.jpg"]
 ;BGM
-[fadeinbgm storage="人混み　無料効果音で遊ぼう！.mp3"] 
+[fadeinbgm storage="Humannize.mp3"] 
 
 あの出来事を経て、私は一つ決めたことがあった。[l][r]
 それは転職だ。[l][cm]
@@ -69,7 +69,7 @@
 今度こそは全ペンギンと仲良くなりたいと思う。[l][cm]
 
 ;BGM消
-[fadeoutbgm storage="人混み　無料効果音で遊ぼう！.mp3"] 
+[fadeoutbgm storage="Humannize.mp3"] 
 
 ;end
 ;黒背景
