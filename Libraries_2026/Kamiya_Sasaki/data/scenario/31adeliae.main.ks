@@ -62,7 +62,7 @@
  ;全体カウント
  [eval exp="allcount=allcount+1"] 
  ;効果音T
- [playse storage="好感度最終true otologic.mp3"] 
+ [playse storage="otologic koukando-last-true.mp3"] 
 
  ;アデリーsmile
  [chara_mod name="adeliae" face="smile"]
@@ -84,7 +84,7 @@
 ;ハート１以下
 [else]
  ;効果音F
- [playse storage="好感度最終false otologic.mp3"]
+ [playse storage="otologic koukando-last-false.mp3"]
 
  ;アデリーangry
  [chara_mod name="adeliae" face="angry"]
