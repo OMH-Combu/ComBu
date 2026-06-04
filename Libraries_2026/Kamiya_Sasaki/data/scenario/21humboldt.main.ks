@@ -46,7 +46,7 @@
  ;全体カウント
  [eval exp="allcount=allcount+1"] 
  ;効果音T
- [playse storage="好感度最終true otologic.mp3"] 
+ [playse storage="otologic koukando-last-true.mp3"] 
 
  ;フンボルトsmile
  [chara_mod name="humboldt" face="smile"]
@@ -63,7 +63,7 @@
 ;ハート１以下
 [else]
  ;効果音F
- [playse storage="好感度最終false otologic.mp3"]
+ [playse storage="otologic koukando-last-false.mp3"]
 
  ;フンボルトangry
  [chara_mod name="humboldt" face="angry"]
