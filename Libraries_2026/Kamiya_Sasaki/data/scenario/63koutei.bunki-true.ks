@@ -10,7 +10,7 @@
 [image layer="1" x="950" y="5" storage="koukando.ichi.png"]
 [layopt layer="1" visible=true time="1000"]
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 @jump storage=61koutei.main.ks target=*common2
@@ -37,7 +37,7 @@
 [layopt layer="1" visible=true time="1000"]
 
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 ;コウテイsmile
@@ -75,7 +75,7 @@
 [layopt layer="1" visible=true time="1000"]
 
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 ;コウテイsmile
