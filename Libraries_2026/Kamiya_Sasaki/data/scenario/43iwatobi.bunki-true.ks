@@ -10,7 +10,7 @@
 [image layer="1" x="950" y="5" storage="koukando.ichi.png"]
 [layopt layer="1" visible=true time="1000"]
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 避けることに成功！！[l][cm]
@@ -48,7 +48,7 @@
 [layopt layer="1" visible=true time="1000"]
 
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 どこからか出てきた凍ったマグロで受け止めた。[l][cm]
@@ -86,7 +86,7 @@
 [layopt layer="1" visible=true time="1000"]
 
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 ;イワトビ消
