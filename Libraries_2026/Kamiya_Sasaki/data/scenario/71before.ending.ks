@@ -73,7 +73,7 @@
 警告[l][cm]
 
 ;効果音
-[playse storage="otologic 警告音.mp3" wait=false]
+[playse storage="otologic warning.mp3" wait=false]
 
 ;メッセージレイヤ小
 [position height=190 top=500 left=180]
@@ -89,7 +89,7 @@
 「え？」[l][cm]
 
 ;効果音
-[playse storage="otologic カウントダウン.mp3" wait=false]
+[playse storage="otologic countdown.mp3" wait=false]
 
 ;メッセージレイヤ大
 [position height=400 top=150 left=180]
