@@ -18,7 +18,7 @@
 おそるおそる看板にさわってみると、[l][cm]
 
 ;効果音
-[playse storage="ooatari.mp3"]
+[playse storage="scene_change5.mp3"]
 
 突然音楽が流れ、看板の文字が出始めた。[l][cm]
 
