@@ -45,7 +45,7 @@
 [image layer="1" x="950" y="5" storage="koukando.ichi.png"]
 [layopt layer="1" visible=true time="1000"]
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 ; [emb] 変数 f.player_name の中身を確認してみます。
@@ -90,7 +90,7 @@
 [layopt layer="1" visible=true time="1000"]
 
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 #gentoo
@@ -127,7 +127,7 @@
 [layopt layer="1" visible=true time="1000"]
 
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 #gentoo
