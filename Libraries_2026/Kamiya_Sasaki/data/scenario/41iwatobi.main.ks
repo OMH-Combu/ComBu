@@ -83,7 +83,7 @@
  ;キガシラオープニングカウント
  [eval exp="kigashira-count=1"] 
  ;効果音T
- [playse storage="好感度最終true otologic.mp3"] 
+ [playse storage="otologic koukando-last-true.mp3"] 
 
  ;イワトビsmile
  [chara_show name="iwatobi" face="smile" width=600 top=10]
@@ -104,7 +104,7 @@
 ;ハート１
 [elsif exp="count==1"]
  ;効果音F
- [playse storage="好感度最終false otologic.mp3"]
+ [playse storage="otologic koukando-last-false.mp3"]
 
  ;イワトビangry
  [chara_show name="iwatobi" face="angry" width=600 top=10]
@@ -134,7 +134,7 @@
 ;ハート０
 [else]
  ;効果音F
- [playse storage="好感度最終false otologic.mp3"]
+ [playse storage="otologic koukando-last-false.mp3"]
 
  ;イワトビ消
  [chara_hide name="iwatobi"]
