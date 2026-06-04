@@ -10,7 +10,7 @@
 [image layer="1" x="950" y="5" storage="koukando.ichi.png"]
 [layopt layer="1" visible=true time="1000"]
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 #キガシラ
@@ -32,7 +32,7 @@
 [image layer="1" x="950" y="5" storage="koukando.ni.png"]
 [layopt layer="1" visible=true time="1000"]
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 #キガシラ
@@ -63,7 +63,7 @@
 [layopt layer="1" visible=true time="1000"]
 
 ;効果音
-[playse storage="ハート otologic.mp3"] 
+[playse storage="otologic heart.mp3"] 
 ;------------------------------
 
 #キガシラ
