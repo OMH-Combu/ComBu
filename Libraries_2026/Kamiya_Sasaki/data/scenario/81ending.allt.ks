@@ -4,7 +4,7 @@
 ;メッセージレイヤ大
 [position height=400 top=150 left=180]
 ;効果音
-[playse storage="otologic ファンファーレ.mp3" wait=false]
+[playse storage="otologic fanfare.mp3" wait=false]
 Congratulations![l][r]
 全てのペンギンと仲良くなるなんて！！[l][r]
 君は本当にペンギンが好きなんだね。[l][r]
