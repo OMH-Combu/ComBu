@@ -50,7 +50,7 @@
  ;全体カウント
  [eval exp="allcount=allcount+1"]
  ;効果音T
- [playse storage="好感度最終true otologic.mp3"] 
+ [playse storage="otologic koukando-last-true.mp3"] 
  
  ;ジェンツーsmile
  [chara_mod name="gentoo" face="smile"]
@@ -62,7 +62,7 @@
 ;ハート１以下
 [else] 
  ;効果音F
- [playse storage="好感度最終false otologic.mp3"]
+ [playse storage="otologic koukando-last-false.mp3"]
 
  ;ジェンツーsune
  [chara_mod name="gentoo" face="sune"]
