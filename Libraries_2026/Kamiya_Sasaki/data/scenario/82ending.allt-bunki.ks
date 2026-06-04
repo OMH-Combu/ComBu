@@ -93,7 +93,7 @@ end[r]
 [wait time="8000"]
 [layopt layer="1" visible=false]
 ;効果音
-[playse storage="otologic めざまし.mp3"]
+[playse storage="otologic alarmclock.mp3"]
 
 end[r]
 「いつもの朝」[l][cm]
