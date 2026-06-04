@@ -84,7 +84,7 @@
 
 
 ;効果音
-[playse storage="カラス　無料効果音で遊ぼう.mp3"] 
+[playse storage="free crow.mp3"] 
 
 銀の川公園[l][cm]
 
@@ -108,12 +108,12 @@
 [mask_off]
 
 ;音楽
-[playbgm storage="川　無料効果音で遊ぼう！.mp3"]
+[playbgm storage="river.mp3"]
 
 …………[l][cm]
 
 ;効果音
-[playse storage="車　無料効果音で遊ぼう！.mp3"] 
+[playse storage="free car.mp3"] 
 
 #ペンギン？
 [font size=14]
@@ -124,15 +124,15 @@
 [l][cm]
 
 ;効果音
-[playse storage="車　無料効果音で遊ぼう！.mp3"] 
+[playse storage="free car.mp3"] 
 
 [resetfont]
 「もっと詳しくならないと。[l][r]
 次こそはペンギンと仲良くならないと」[l][cm]
 #
 
-;音楽フェードアウト
-[fadeoutbgm storage="川　無料効果音で遊ぼう！.mp3" time=2000]
+;BGMフェードアウト
+[fadeoutbgm storage="river.mp3" time=2000]
 
 ;黒背景
 [bg storage="bg.bl.jpg" time="3000"][l]
