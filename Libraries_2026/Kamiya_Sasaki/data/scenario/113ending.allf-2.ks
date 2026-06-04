@@ -214,7 +214,7 @@
 [layopt layer="2" visible=true time="1000"]
 
 ;効果音
-[playse storage="otologic サイレン.mp3"] 
+[playse storage="otologic siren.mp3"] 
 
 [wait time="1500"]
 
