@@ -81,10 +81,11 @@
 [mask_off]
 
 [if exp="count>=2"]
- ;効果音T
- [playse storage="otologic koukando-last-true.mp3"] 
  ;全体カウント
  [eval exp="allcount=allcount+1"]
+ ;効果音T
+ [playse storage="otologic koukando-last-true.mp3"] 
+
  ;キガシラsmile
  [chara_mod name="kigashira" face="smile"]
  #キガシラ
