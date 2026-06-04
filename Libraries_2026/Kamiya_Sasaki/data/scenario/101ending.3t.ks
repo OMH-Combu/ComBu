@@ -37,7 +37,7 @@
 [bg storage="classroom.jpg" time="2000"][l]
 
 ;BGM
-[fadeinbgm storage="人混み　無料効果音で遊ぼう！.mp3"] 
+[fadeinbgm storage="Humannize.mp3"] 
 
 #男子高校生A
 「なあなあ知ってるか？
@@ -73,7 +73,7 @@
 それより駅前に新しくできた……[l][cm]
 
 ;BGM
-[fadeoutbgm storage="人混み　無料効果音で遊ぼう！.mp3"] 
+[fadeoutbgm storage="Humannize.mp3"] 
 
 ;暗転
 [mask time=2000]
