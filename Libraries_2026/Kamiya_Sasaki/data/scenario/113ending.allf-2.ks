@@ -98,7 +98,7 @@
 [chara_hide name="haha"]
 
 ;高校生
-[chara_show name="joshigakusei" right="200" y="0" height="700" wait=false]
+[chara_show name="joshigakusei" left="900" y="0" height="700" wait=false]
 [chara_show name="dannshigakusei" x="700" y="0" height="700"]
 #女子
 「[emb exp="f.player_name"]ってずれてるよね」[l][cm]
@@ -178,7 +178,7 @@
 [chara_hide name="kigashira"]
 
 ;コウテイ・キング
-[chara_show name="koutei" face="angry" x=350 wait=false]
+[chara_show name="koutei" face="angry" x=350 top=60 wait=false]
 [chara_show name="king" face="angry" height=750 top=70]
 #コウテイたち
 「………」
