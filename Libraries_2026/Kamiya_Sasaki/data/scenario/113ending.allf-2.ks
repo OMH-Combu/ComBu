@@ -98,7 +98,7 @@
 [chara_hide name="haha"]
 
 ;高校生
-[chara_show name="joshigakusei" x="450" y="0" height="700" wait=false]
+[chara_show name="joshigakusei" x="300" y="0" height="700" wait=false]
 [chara_show name="dannshigakusei" x="700" y="0" height="700"]
 #女子
 「[emb exp="f.player_name"]ってずれてるよね」[l][cm]
