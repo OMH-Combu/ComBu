@@ -229,4 +229,6 @@ end[r]
 ;メッセージレイヤを非表示にしておく
 @layopt layer=message0 visible=false
 
+[wait time="1000"]
+
 @jump storage=credit2.ks target=*common
