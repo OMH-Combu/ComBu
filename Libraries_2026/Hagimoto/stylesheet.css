@@ -2,9 +2,11 @@ body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
 }
+
 a {
   text-decoration: none;
 }
+
 .container {
   width: 1170px;
   padding: 0 15px;
@@ -13,22 +15,22 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url("picture1.png");
+  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-size: cover;
   color: white;
   text-align: center;
-  background-size: cover;
 }
-.top-wrapper .container h1 {
-  color: white;
+
+.top-wrapper h1 {
   opacity: 0.7;
-   font-size: 45px;
-   letter-spacing: 5px;
+  font-size: 45px;
+  letter-spacing: 5px;
 }
+
 .top-wrapper p {
   opacity: 0.7;
 }
 
-<!---いらない？--->
 .btn-wrapper {
   margin: 20px 0;
 }
@@ -41,15 +43,35 @@ a {
   background-color: #239b76;
 }
 
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
 .fa {
   margin-right: 5px;
 }
 
-/* 0508書いた */
 header {
-  height:65px;
+  height: 65px;
   width: 100%;
-  background-color: rgba(34,49,52,0.9)
+  background-color: rgba(34, 49, 52, 0.9);
 }
 
 .logo {
@@ -77,7 +99,7 @@ header {
   color: white;
   display: block;
 }
-<!--ここから   大丈夫-->
+
 .lesson-wrapper {
   height: 500px;
   padding-bottom: 80px;
@@ -100,6 +122,29 @@ header {
   width: 25%;
 }
 
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #b3aeb5;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
@@ -112,6 +157,9 @@ header {
   box-shadow: 0 7px #1a7940;
 }
 
-.heading h3 {
-  font-weight: normal;
+/* messageクラスがクリックされているときのCSSを指定してください */
+.message:active {
+  box-shadow: none;
+  position: relative;
+  top: 7px;
 }
