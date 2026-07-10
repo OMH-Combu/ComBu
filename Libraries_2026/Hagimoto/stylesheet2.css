@@ -1,7 +1,8 @@
 
 /*清田先生 */
 .top-wrapper {
-  
+  width: 50%;
+}
 .message {
   text-align: right;
   font-family: "Hiragino Kaku Gothic ProN";
