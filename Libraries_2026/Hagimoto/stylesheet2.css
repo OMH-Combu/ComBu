@@ -4,6 +4,11 @@
   width: 50%;
 }*/
 
+.lesson-icon {
+  position: relative;
+  left: 200px;
+}
+
 .message {
   text-align: right;
   font-family: "Hiragino Kaku Gothic ProN";
