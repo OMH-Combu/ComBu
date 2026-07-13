@@ -15,4 +15,5 @@
   position: relative; /* 今の位置を基準 */
   /*top: 10px; /* 上から10px */
   right: 1000px; /* rightから100px */  
+  font-weight: normal;
 }
