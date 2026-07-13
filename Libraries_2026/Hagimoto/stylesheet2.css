@@ -11,7 +11,7 @@
 
 .message h2{
   position: relative; /* 今の位置を基準 */
-  top: 10px; /* 上から10px */
+  /*top: 10px;  上から10px */
   left: 1000px; /* leftから100px */  
 }
 
