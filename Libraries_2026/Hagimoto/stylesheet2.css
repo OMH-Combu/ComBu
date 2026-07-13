@@ -17,7 +17,6 @@
 
 .message h1{
   font-weight: normal;/*フォント細めに*/
-  position: relative; /* 今の位置を基準 */
-  left: 1000px; /* leftから100px */  
+  font-size: 20px;
 }
   
