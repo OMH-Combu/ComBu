@@ -9,5 +9,5 @@
   font-family: "Hiragino Kaku Gothic ProN";
   position: relative; /* 今の位置を基準 */
   /*top: 10px; /* 上から10px */
-  right: 10px; /* 左から100px */  
+  right: 100px; /* rightから100px */  
 }
