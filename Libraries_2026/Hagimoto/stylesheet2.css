@@ -1,9 +1,13 @@
 
-/*清田先生 */
+/*清田先生 
 .top-wrapper {
   width: 50%;
-}
+}*/
+
 .message {
   text-align: right;
   font-family: "Hiragino Kaku Gothic ProN";
+  position: relative; /* 今の位置を基準 */
+  /*top: 10px; /* 上から10px */
+  left: 20px; /* 左から200px */  
 }
