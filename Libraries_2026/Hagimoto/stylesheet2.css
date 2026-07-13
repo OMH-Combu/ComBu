@@ -12,12 +12,12 @@
 .message h2{
   position: relative; /* 今の位置を基準 */
   top: 10px; /* 上から10px */
-  right: 1000px; /* rightから100px */  
+  left: 1000px; /* leftから100px */  
 }
 
 .message h1{
-  font-weight: normal;*/フォント細めに*/
+  font-weight: normal;/*フォント細めに*/
   position: relative; /* 今の位置を基準 */
-  right: 1000px; /* rightから100px */  
+  left: 1000px; /* leftから100px */  
 }
   
