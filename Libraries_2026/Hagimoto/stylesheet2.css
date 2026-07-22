@@ -4,7 +4,7 @@
   width: 50%;
 }*/
 
-.lesson-icon {
+/*.lesson-icon {
   position: relative;
   left: 300px;
 }
@@ -19,5 +19,9 @@
 .message h1{
   font-weight: normal;/*フォント細めに*/
   font-size: 20px;
+}*/
+
+.top-wrapper {
+  display: flex;
 }
   
