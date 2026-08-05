@@ -117,11 +117,12 @@ a {
   display: block;
 }
 
+/* gray before */
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  background-color: white;
   text-align: center;
 }
 
