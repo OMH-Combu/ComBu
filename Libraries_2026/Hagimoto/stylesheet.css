@@ -172,7 +172,7 @@ a {
 /* episode bottom */
 /* ボタンを囲んでいる親要素（container）を中央揃えにする設定 */
 .message-wrapper .container {
-  text-align: center; /* 中にある文字やボタン（インライン要素）を真ん中に寄せる */
+  text-align: center !important; /* 中にある文字やボタン（インライン要素）を真ん中に寄せる */
 }
 
 /* ボタン自体のスタイル（オレンジ色を最優先＋中央寄せを確実にする） */
