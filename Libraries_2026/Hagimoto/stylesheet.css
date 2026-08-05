@@ -162,6 +162,12 @@ header {
   font-weight: normal;
 }
 
+/* 中にある文字やボタン（インライン要素）を真ん中に寄せる */
+.message-wrapper .container {
+  text-align: center; 
+}
+
+/* episode bottom */
 .btn-orange {
   display: inline-block;
   padding: 12px 36px;       /* ボタンの内側の余白（上下 左右） */
