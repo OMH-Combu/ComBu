@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
@@ -7,8 +11,13 @@ a {
   text-decoration: none;
 }
 
+.clear {
+  clear: left;
+}
+
 .container {
-  width: 1170px;
+   max-width: 1170px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -58,6 +67,7 @@ a {
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
+  text-align: center;
 }
 
 .btn:hover {
@@ -72,6 +82,9 @@ header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .logo {
@@ -84,8 +97,11 @@ header {
 }
 
 .header-right {
-  float: right;
-  background-color: rgba(255, 255, 255, 0.3);
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
   transition: all 0.5s;
 }
 
@@ -101,8 +117,9 @@ header {
 }
 
 .lesson-wrapper {
-  height: 500px;
   padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -166,6 +183,7 @@ header {
 
 .message_AI {
   font-size: 10px;
-  text-align: left;
+  font-weight: normal;
+  text-align: right;
 }
   
