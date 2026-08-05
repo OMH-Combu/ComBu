@@ -48,7 +48,7 @@ a {
   margin: 10px 0;
 }
 
-.signup {
+/*.signup {
   background-color: #239b76;
 }
 
@@ -72,8 +72,9 @@ a {
 
 .btn:hover {
   opacity: 1;
-}
+} */
 
+/* アイコンと隣接するテキストを区切る */
 .fa {
   margin-right: 5px;
 }
@@ -127,7 +128,7 @@ header {
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
-  color: #5f5d60;
+  /* color: #5f5d60; */
 }
 
 .heading h2 {
