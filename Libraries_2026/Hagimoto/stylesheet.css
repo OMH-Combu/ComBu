@@ -16,7 +16,7 @@ a {
 }
 
 .container {
-   max-width: 1170px;
+  max-width: 1170px;
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
@@ -79,7 +79,7 @@ a {
   margin-right: 5px;
 }
 
-header {
+/* header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
@@ -91,7 +91,7 @@ header {
 .logo {
   width: 124px;
   margin-top: 20px;
-}
+} */
 
 .header-left {
   float: left;
