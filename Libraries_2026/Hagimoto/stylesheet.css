@@ -170,24 +170,37 @@ a {
 }
 
 /* episode bottom */
+/* ボタンを囲んでいる親要素（container）を中央揃えにする設定 */
+.message-wrapper .container {
+  text-align: center; /* 中にある文字やボタン（インライン要素）を真ん中に寄せる */
+}
+
+/* ボタン自体のスタイル（オレンジ色を最優先＋中央寄せを確実にする） */
 .btn-orange {
   display: inline-block;
-  padding: 12px 36px;       /* ボタンの内側の余白（上下 左右） */
-  background-color: #ffb833; /* 指定のオレンジ色 */
-  color: #ffffff;            /* 文字の色（白） */
-  font-size: 16px;           /* 文字の大きさ */
-  font-weight: bold;         /* 文字の太さ */
-  text-decoration: none;     /* リンクの下線を消す */
-  border-radius: 4px;        /* 角の丸み（少し丸く） */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 軽い影をつけて立体的に */
-  transition: all 0.3s ease; /* 変化をなめらかにする */
+  margin: 0 auto;            /* 左右の余白を自動調整して中央に */
+  padding: 12px 36px;
+  background-color: #ffa600 !important; /* オレンジ色を最優先 */
+  color: #ffffff !important;            /* 文字の白を最優先 */
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 通常時の立体的な影 */
+  transition: all 0.1s ease; /* クリック時の反応を速くするため 0.3s から 0.1s に変更 */
 }
 
 /* マウスを乗せたとき（ホバー時）の動き */
 .btn-orange:hover {
-  background-color: #ffa600; /* 背景色を少し濃いオレンジにする */
+  background-color: #e09200 !important; /* ホバー時のオレンジも最優先 */
   transform: translateY(-2px); /* ボタンを少し上に浮かせる */
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* 影を強くする */
+}
+
+/* ★ボタンをクリックしたとき（押し込んだ時）の動き */
+.btn-orange:active {
+  transform: translateY(2px); /* 浮いていた分（-2px）から元の位置を通り越して下に沈ませる */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* 影を薄く・短くして、地面に近づいた感を出す */
 }
 
 
