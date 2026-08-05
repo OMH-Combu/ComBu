@@ -188,7 +188,7 @@ header {
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* 影を強くする */
 }
 
-/*.message-wrapper {
+.message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
@@ -198,7 +198,7 @@ header {
   padding: 15px 40px;
   background-color: #5dca88;
   box-shadow: 0 7px #1a7940;
-}*/
+}
 
 /* ボタンかも？ */
 /*.message:active {
