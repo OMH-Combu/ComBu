@@ -162,6 +162,26 @@ header {
   font-weight: normal;
 }
 
+.btn-orange {
+  display: inline-block;
+  padding: 12px 36px;       /* ボタンの内側の余白（上下 左右） */
+  background-color: #ffa600; /* 指定のオレンジ色 */
+  color: #ffffff;            /* 文字の色（白） */
+  font-size: 16px;           /* 文字の大きさ */
+  font-weight: bold;         /* 文字の太さ */
+  text-decoration: none;     /* リンクの下線を消す */
+  border-radius: 4px;        /* 角の丸み（少し丸く） */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 軽い影をつけて立体的に */
+  transition: all 0.3s ease; /* 変化をなめらかにする */
+}
+
+/* マウスを乗せたとき（ホバー時）の動き */
+.btn-orange:hover {
+  background-color: #e09200; /* 背景色を少し濃いオレンジにする */
+  transform: translateY(-2px); /* ボタンを少し上に浮かせる */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* 影を強くする */
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
