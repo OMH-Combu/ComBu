@@ -180,7 +180,7 @@ a {
   display: inline-block;
   margin: 0 auto;            /* 左右の余白を自動調整して中央に */
   padding: 12px 36px;
-  background-color: #ffa600 !important; /* オレンジ色を最優先 */
+  background-color: #ffaf1a !important; /* オレンジ色を最優先 */
   color: #ffffff !important;            /* 文字の白を最優先 */
   font-size: 16px;
   font-weight: bold;
@@ -192,7 +192,7 @@ a {
 
 /* マウスを乗せたとき（ホバー時）の動き */
 .btn-orange:hover {
-  background-color: #e09200 !important; /* ホバー時のオレンジも最優先 */
+  background-color: #ffa600 !important; /* ホバー時のオレンジも最優先 */
   transform: translateY(-2px); /* ボタンを少し上に浮かせる */
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* 影を強くする */
 }
