@@ -57,5 +57,9 @@
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* 影を薄く・短くして、地面に近づいた感を出す */
 }
 
-
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center; !important;
+} 
   
