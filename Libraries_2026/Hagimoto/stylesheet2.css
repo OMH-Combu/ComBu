@@ -62,4 +62,13 @@
   padding-bottom: 80px;
   text-align: center; !important;
 } 
+
+.message_AI {
+  font-size: 8px;
+  font-weight: normal;
+  text-align: center;
+  color: #666666;
+  margin-top: 40px;    /* ボタンとのあいだの隙間 */
+  margin-bottom: 20px; /* 一番下の線とのあいだの隙間 */
+}
   
