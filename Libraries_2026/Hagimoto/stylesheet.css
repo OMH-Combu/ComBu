@@ -229,6 +229,8 @@ a {
   font-weight: normal;
   text-align: center;
   color: #666666;
+  margin-top: 40px;    /* ボタンとのあいだの隙間 */
+  margin-bottom: 20px; /* 一番下の線とのあいだの隙間 */
 }
   
 
