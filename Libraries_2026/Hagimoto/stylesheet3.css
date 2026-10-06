@@ -1,1 +1,13 @@
+body h1{
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+  text-align: center !important;/* 中にある文字やボタン（インライン要素）を真ん中に寄せる */
+  text-size: 50px
+}
 
+body h2 {
+ margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+  text-align: center !important;/* 中にある文字やボタン（インライン要素）を真ん中に寄せる */
+  text-size: 30px
+}
