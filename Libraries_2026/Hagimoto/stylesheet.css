@@ -147,20 +147,20 @@ a {
 .lesson-icon {
   position: relative;
 }
-
+/* 丸の中の文字 */
 .lesson-icon p {
   position: absolute;
-  top: 90px;
+  top: 100px;
   width: 100%;
   color: white;
 }
-
+/* 説明 */
 .txt-contents {
   width: 80%;
   display: inline-block;
   margin-top: 20px;
-  font-size: 12px;
-  color: #b3aeb5;
+  font-size: 30px;
+  color: black;
 }
 
 .heading h3 {
